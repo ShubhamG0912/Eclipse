@@ -1,0 +1,10 @@
+2024-01-22 13:30:16,457 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-01-22 13:30:22,339 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shubham.gaikwad\eclipse-workspace\JAN2024_JAVA\src\main\resources
+2024-01-22 13:30:22,350 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shubham.gaikwad\eclipse-workspace\JAN2024_JAVA\src\test\resources
+2024-01-22 13:30:30,833 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shubham.gaikwad\eclipse-workspace\Jan12_Selenium1\src\main\resources
+2024-01-22 13:30:30,841 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shubham.gaikwad\eclipse-workspace\Jan12_Selenium1\src\test\resources
+2024-01-22 13:30:31,368 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/JAN2024_JAVA: JAN2024_JAVA:JAN2024_JAVA:0.0.1-SNAPSHOT with classifier  to /JAN2024_JAVA/target/classes
+2024-01-22 13:30:31,397 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shubham.gaikwad\eclipse-workspace\Jan4\src\main\resources
+2024-01-22 13:30:31,402 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shubham.gaikwad\eclipse-workspace\Jan4\src\test\resources
+2024-01-22 13:34:53,168 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shubham.gaikwad\eclipse-workspace\Jan12_Selenium1\src\main\resources
+2024-01-22 13:34:53,243 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\shubham.gaikwad\eclipse-workspace\Jan12_Selenium1\src\test\resources

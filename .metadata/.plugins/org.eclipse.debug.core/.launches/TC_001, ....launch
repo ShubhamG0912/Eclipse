@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.testng.eclipse.launchconfig">
+    <stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="org.eclipse.m2e.launchconfig.classpathProvider"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.testng.remote.RemoteTestNG"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="JAN2024_JAVA"/>
+    <mapAttribute key="org.testng.eclipse.ALL_CLASS_METHODS"/>
+    <listAttribute key="org.testng.eclipse.CLASS_TEST_LIST">
+        <listEntry value="Jan_4.CurrentAccount1"/>
+        <listEntry value="Jan23.TC001"/>
+        <listEntry value="Jan_4.shapes"/>
+        <listEntry value="Jan_4.Inheritance"/>
+        <listEntry value="Jan5.Regex_Adhar"/>
+        <listEntry value="Jan_Pac1.TC004_ClassesAndObjects"/>
+        <listEntry value="Junit.TC003_Person"/>
+        <listEntry value="Junit.TC002_Person"/>
+        <listEntry value="Jan_Pac1.TC003_ControlStatments"/>
+        <listEntry value="Pac2.Lab_CurrentSystemDate"/>
+        <listEntry value="Pac2.TC007_WrapperClass"/>
+        <listEntry value="Jan11.TC_001"/>
+        <listEntry value="Jan11.TC_002"/>
+        <listEntry value="Jan_Pac1.personDetails"/>
+        <listEntry value="Jan_4.Lab2_2Inh_poly"/>
+        <listEntry value="Jan23.TC02_EmailReport"/>
+        <listEntry value="Jan_4.Account"/>
+        <listEntry value="Jan_4.Swipemachine"/>
+        <listEntry value="Jan5.Nested_TryCatch"/>
+        <listEntry value="Jan_Pac1.Lab1"/>
+        <listEntry value="Pac2.TC011_DateTime"/>
+        <listEntry value="Jan5.EmployeeMain"/>
+        <listEntry value="Jan22.TestNG_TC1"/>
+        <listEntry value="Pac2.TC013_15_1Age"/>
+        <listEntry value="Pac2.Lab1_9"/>
+        <listEntry value="Jan_4.TC004_AtOverride"/>
+        <listEntry value="Jan22.TestNG_lab3"/>
+        <listEntry value="Jan_4.Account1"/>
+        <listEntry value="Jan11.TC004_Assert"/>
+        <listEntry value="Jan_Pac1.AssignGetSetP"/>
+        <listEntry value="Jan_Pac1.EX_Const"/>
+        <listEntry value="Jan_4.Child1"/>
+        <listEntry value="Jan_4.Child2"/>
+        <listEntry value="Pac2.Balance"/>
+        <listEntry value="Jan5.EmployeeName"/>
+        <listEntry value="Pac2.Lab_WarrantyofProduct"/>
+        <listEntry value="Jan_4.Parent"/>
+        <listEntry value="Jan_Pac1.TC005_PositiveNegative"/>
+        <listEntry value="Jan_4.shape"/>
+        <listEntry value="Pac2.Lab1_9UpperCase"/>
+        <listEntry value="Jan_4.Chipcardmachine"/>
+        <listEntry value="Pac2.PositiveString"/>
+        <listEntry value="Jan_Pac1.Get_Set_Person"/>
+        <listEntry value="Pac2.Lab12_DateDurationCalc"/>
+        <listEntry value="Pac2.TC010_DuplicateString"/>
+        <listEntry value="Jan5.InvalidNameException"/>
+        <listEntry value="Jan11.Date"/>
+        <listEntry value="Pac2.TC008_Scanner"/>
+        <listEntry value="Jan5.TC007_UserDefinedException"/>
+        <listEntry value="Jan23.OHRM_POM_Props"/>
+        <listEntry value="Jan_Pac1.TC002_Variables"/>
+        <listEntry value="Jan_4.simplecalc"/>
+        <listEntry value="Jan_Pac1.TC_001_HelloWorld"/>
+        <listEntry value="Jan_4.parent"/>
+        <listEntry value="Jan_4.SavingsAccount1"/>
+        <listEntry value="Jan_Pac1.GetSetP_Details"/>
+        <listEntry value="Pac2.Lab11_CurrentSystemdate"/>
+        <listEntry value="Pac2.Lab15_Age_FullName"/>
+        <listEntry value="Jan_4.child"/>
+        <listEntry value="Jan5.Person"/>
+        <listEntry value="Jan_4.calc"/>
+        <listEntry value="Pac2.TC009_StringHandling"/>
+        <listEntry value="Jan_4.Lab1"/>
+        <listEntry value="Jan5.PersonAgeMain"/>
+        <listEntry value="Jan_4.TC003_Overriding"/>
+        <listEntry value="Jan_4.Main_Account1"/>
+        <listEntry value="Jan5.Employee"/>
+        <listEntry value="Jan5.TC001_Regex"/>
+        <listEntry value="Jan11.Date_Junit"/>
+        <listEntry value="Jan_Pac1.OC_Balance"/>
+        <listEntry value="Jan5.emp"/>
+        <listEntry value="Jan_4.rect"/>
+        <listEntry value="Junit.TC001_Junit1"/>
+        <listEntry value="Jan5.AgeException"/>
+        <listEntry value="Jan5.TC__003Exception"/>
+        <listEntry value="Jan_4.TC_002MethodOver"/>
+        <listEntry value="Pac2.Lab19_1_1AddString"/>
+        <listEntry value="Jan_Pac1.Tc006_Constructor"/>
+    </listAttribute>
+    <listAttribute key="org.testng.eclipse.METHOD_TEST_LIST"/>
+    <listAttribute key="org.testng.eclipse.PACKAGE_TEST_LIST"/>
+    <stringAttribute key="org.testng.eclipse.PRE_DEFINED_LISTENERS" value=""/>
+    <intAttribute key="org.testng.eclipse.TYPE" value="1"/>
+</launchConfiguration>

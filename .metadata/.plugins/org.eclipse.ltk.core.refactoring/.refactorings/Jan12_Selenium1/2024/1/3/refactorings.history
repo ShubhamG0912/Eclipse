@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Jan16_Selenium.TC001_POM&apos; to &apos;TC001_OHRM_Login&apos;&#x0D;&#x0A;- Original project: &apos;Jan12_Selenium1&apos;&#x0D;&#x0A;- Original element: &apos;Jan16_Selenium.TC001_POM&apos;&#x0D;&#x0A;- Renamed element: &apos;Jan16_Selenium.TC001_OHRM_Login&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;TC001_POM&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;Jan16_Selenium{TC001_POM.java[TC001_POM" matchStrategy="1" name="TC001_OHRM_Login" qualified="false" references="true" similarDeclarations="false" stamp="1705384519188" textual="false" version="1.0"/>
+</session>

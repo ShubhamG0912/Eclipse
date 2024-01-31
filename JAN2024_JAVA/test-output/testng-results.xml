@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-25T10:52:28 IST" name="Suite" finished-at="2024-01-25T10:52:28 IST" duration-ms="100">
+    <groups>
+      <group name="sanity">
+        <method signature="priority2.test4()[pri:1, instance:Jan24.priority2@2cf3d63b]" name="test4" class="Jan24.priority2"/>
+        <method signature="priority1.test4()[pri:1, instance:Jan25.priority1@f78a47e]" name="test4" class="Jan25.priority1"/>
+        <method signature="priority2.test2()[pri:2, instance:Jan24.priority2@2cf3d63b]" name="test2" class="Jan24.priority2"/>
+        <method signature="priority1.test2()[pri:2, instance:Jan25.priority1@f78a47e]" name="test2" class="Jan25.priority1"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2024-01-25T10:52:28 IST" name="Test" finished-at="2024-01-25T10:52:28 IST" duration-ms="100">
+      <class name="Jan24.priority2">
+        <test-method signature="test4()[pri:1, instance:Jan24.priority2@2cf3d63b]" started-at="2024-01-25T10:52:28 IST" name="test4" finished-at="2024-01-25T10:52:28 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method signature="test2()[pri:2, instance:Jan24.priority2@2cf3d63b]" started-at="2024-01-25T10:52:28 IST" name="test2" finished-at="2024-01-25T10:52:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- Jan24.priority2 -->
+      <class name="Jan25.priority1">
+        <test-method signature="test4()[pri:1, instance:Jan25.priority1@f78a47e]" started-at="2024-01-25T10:52:28 IST" name="test4" finished-at="2024-01-25T10:52:28 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method signature="test2()[pri:2, instance:Jan25.priority1@f78a47e]" started-at="2024-01-25T10:52:28 IST" name="test2" finished-at="2024-01-25T10:52:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- Jan25.priority1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+=======
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-22T13:35:55 IST" name="Default suite" finished-at="2024-01-22T13:35:55 IST" duration-ms="123">
+    <groups>
+    </groups>
+    <test started-at="2024-01-22T13:35:55 IST" name="Default test" finished-at="2024-01-22T13:35:55 IST" duration-ms="123">
+      <class name="Jan18_Jmeter.TC001_TestNG">
+        <test-method signature="logintest()[pri:0, instance:Jan18_Jmeter.TC001_TestNG@1c7696c6]" started-at="2024-01-22T13:35:55 IST" name="logintest" finished-at="2024-01-22T13:35:55 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+      </class> <!-- Jan18_Jmeter.TC001_TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+>>>>>>> branch 'master' of https://github.com/ShubhamG0912/Project_Eclipse.git
+</testng-results>

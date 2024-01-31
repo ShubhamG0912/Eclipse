@@ -1,0 +1,33 @@
+package Jan_4;
+
+import Jan_4.TC001_Inheritance.parent_P.child_c;
+
+public class TC001_Inheritance {
+	
+	public static void main(String[] args) {
+		child_c c =new child_c();
+		c.Child();
+	}
+
+	
+	class parent_P{
+		public void parent() {
+			System.out.println("God Father");
+		}
+		
+		class child_c extends parent_P{
+			
+			public void Child() {
+				super.parent();
+				System.out.println("Son of God");
+			}
+		}
+		
+			public class TC001_Inheritance {
+				
+				public static void main(String[] args) {
+					child_c c =new child_c();
+					c.Child();
+				
+		
+				}
